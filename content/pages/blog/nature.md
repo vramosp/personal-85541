@@ -2,8 +2,8 @@
 title: My Way to Relax in Nature and Stress Less
 date: '2021-03-24'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  The way I spend time out in nature can affect how much my physical and mental
+  health will recharge and how I benefit from it.
 featuredImage:
   type: ImageBlock
   url: /images/4.jpeg
