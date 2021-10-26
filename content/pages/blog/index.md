@@ -33,4 +33,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: This is what inspires me
 ---
