@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/10.jpeg
-  altText: Post thumbnail image
+  altText: Fox Village in Japan
 bottomSections: []
 layout: PostLayout
 ---
