@@ -30,7 +30,7 @@ sections:
           defaultValue: Please select
           options:
             - Error on the site
-            - San Francisco
+            - Sponsorship
           isRequired: false
           width: full
           type: SelectFormControl
