@@ -61,11 +61,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-f
     backgroundWidth: full
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     feature:
       type: ImageBlock
       url: /images/hero.png
