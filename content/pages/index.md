@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-g
     backgroundWidth: full
-    title: 'Hi, I’m Alyvia.'
+    title: 'Hi, I’m John.'
     text: >
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
