@@ -41,6 +41,12 @@ sections:
             I understand that this form is storing my submitted information so I
             can be contacted.
           width: full
+        - name: lorem-ipsum
+          label: Description
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       submitLabel: Send Message
     feature: null
     styles:
