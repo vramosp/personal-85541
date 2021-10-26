@@ -2,8 +2,8 @@
 title: Fox Village In Japan
 date: '2021-01-11'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Apparently, Japan is covered in magical and irresistibly cute animal
+  sanctuaries.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
