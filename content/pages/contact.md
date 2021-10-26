@@ -25,12 +25,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: >-
-            I understand that this form is storing my submitted information so I
-            can be contacted.
-          width: full
         - name: lorem-ipsum
           label: City
           defaultValue: Please choose...
@@ -40,6 +34,12 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: >-
+            I understand that this form is storing my submitted information so I
+            can be contacted.
+          width: full
       submitLabel: Send Message
     feature: null
     styles:
