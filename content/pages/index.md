@@ -83,6 +83,7 @@ sections:
         elementId: hero-main-button
         altText: Lear more
         showIcon: true
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/hero.png
