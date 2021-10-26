@@ -43,7 +43,7 @@ sections:
     colors: colors-g
   - elementId: ''
     colors: colors-c
-    backgroundWidth: inset
+    backgroundWidth: full
     quote: >
       The world always seems brighter when you’ve just made something that
       wasn’t there before.
