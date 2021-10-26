@@ -159,6 +159,7 @@ sections:
         label: View all
         url: /
         style: primary
+        altText: View all
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
