@@ -33,5 +33,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    subtitle: This is what inspires me
+    subtitle: I like writing about what insi
 ---
