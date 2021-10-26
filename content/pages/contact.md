@@ -36,7 +36,7 @@ sections:
           width: full
           type: SelectFormControl
         - name: Message
-          label: Description
+          label: Message
           placeholder: Please describe
           isRequired: false
           width: full
