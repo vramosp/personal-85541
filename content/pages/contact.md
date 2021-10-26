@@ -3,7 +3,7 @@ title: This is a new page
 sections:
   - elementId: contact-form
     colors: colors-g
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Get in touch
     text: |
       To get in touch fill the form below.
