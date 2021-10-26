@@ -154,7 +154,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-g
     backgroundWidth: full
     title: Testimonials
     subtitle: What our customers say about us
