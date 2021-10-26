@@ -1,7 +1,7 @@
 {
     "type": "ThemeStyle",
     "body": "#ffffff",
-    "headlines": "#303941",
+    "headlines": "#ffffff",
     "primary": "#28aaff",
     "secondary": "#282f36",
     "neutral": "#282f36",
