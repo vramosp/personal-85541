@@ -27,7 +27,7 @@ sections:
           width: full
         - name: Subject
           label: Subject
-          defaultValue: Please choose...
+          defaultValue: Please select
           options:
             - New York
             - San Francisco
