@@ -62,10 +62,6 @@ sections:
     colors: colors-f
     backgroundWidth: full
     actions: []
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Image alt text
     styles:
       self:
         height: auto
