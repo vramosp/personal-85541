@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: 'https://www.stackbit.com/'
+        url: /contact
         style: primary
         elementId: hero-main-button
     styles:
