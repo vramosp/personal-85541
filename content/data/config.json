@@ -68,14 +68,7 @@
         },
         "text": "hello@johndoe.com\n\n(925)-456-1234\n",
         "copyrightText": "Powered by Stackbit",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
