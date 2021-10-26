@@ -162,6 +162,7 @@ sections:
         showIcon: false
     posts:
       - content/pages/blog/fox-village-in-japan.md
+      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
     styles:
       self:
         height: auto
