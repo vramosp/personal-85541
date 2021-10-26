@@ -29,7 +29,7 @@ sections:
           label: Subject
           defaultValue: Please select
           options:
-            - New York
+            - Error on the site
             - San Francisco
           isRequired: false
           width: full
