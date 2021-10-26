@@ -44,7 +44,6 @@ sections:
       The world always seems brighter when you’ve just made something that
       wasn’t there before.
     name: NEIL GAIMAN
-    title: Product Marketing Manager at Acme
     backgroundImage: {}
     styles:
       self:
