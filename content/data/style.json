@@ -3,7 +3,7 @@
     "body": "#000000",
     "headlines": "#000000",
     "primary": "#ffffff",
-    "secondary": "#ffffff",
+    "secondary": "#000",
     "neutral": "#ffffff",
     "complementary": "#e9f6ff",
     "complementary-alt": "#fffde2"
