@@ -10,7 +10,6 @@ sections:
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
       - content/pages/blog/fox-village-in-japan.md
     styles:
       self:
