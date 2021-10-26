@@ -6,7 +6,7 @@ excerpt: >-
   sanctuaries.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/10.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
