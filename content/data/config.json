@@ -75,7 +75,8 @@
                 "altText": "Twitter",
                 "url": "/",
                 "showIcon": true,
-                "icon": "twitter"
+                "icon": "twitter",
+                "label": "Twitter"
             },
             {
                 "type": "Social",
