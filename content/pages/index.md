@@ -66,7 +66,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: My passion
+    title: My passion is...
     subtitle: This Is Subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
