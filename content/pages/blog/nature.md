@@ -6,7 +6,7 @@ excerpt: >-
   posts.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/4.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
