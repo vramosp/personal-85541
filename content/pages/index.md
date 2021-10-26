@@ -184,6 +184,31 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          url: /images/dianne-ameter.jpg
+          altText: Product Marketing Manager
+        elementId: ''
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            fontWeight: 700
+            fontStyle: normal
+            textAlign: left
+          title:
+            fontWeight: 400
+            fontStyle: normal
+            textAlign: left
     styles:
       self:
         height: auto
