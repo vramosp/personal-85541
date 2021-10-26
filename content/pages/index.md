@@ -81,6 +81,7 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
+        altText: Lear more
     feature:
       type: ImageBlock
       url: /images/hero.png
