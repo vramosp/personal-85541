@@ -10,14 +10,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Home",
+                "url": "/",
                 "altText": ""
             },
             {
