@@ -2,7 +2,7 @@
 title: This is a new page
 sections:
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-g
     backgroundWidth: full
     title: Contact us
     text: We look forward to hearing from you.
