@@ -153,7 +153,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Latest blog posts
-    subtitle: Featured blog posts section example
+    subtitle: Read through some of my ideas
     actions:
       - type: Button
         label: View all
