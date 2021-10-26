@@ -133,6 +133,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-complementary-alt
         borderWidth: 5
+        borderRadius: none
       title:
         fontWeight: 700
         fontStyle: normal
