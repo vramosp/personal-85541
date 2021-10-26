@@ -51,6 +51,17 @@
                     "pb-5"
                 ]
             }
+        },
+        "logo": {
+            "altText": "lorem-ipsum",
+            "caption": "lorem-ipsum",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock"
         }
     },
     "footer": {
