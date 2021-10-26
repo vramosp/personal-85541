@@ -35,6 +35,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+        margin:
+          - mt-12
       actions:
         justifyContent: flex-start
     colors: colors-g
