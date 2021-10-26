@@ -16,6 +16,7 @@ sections:
         url: /contact
         style: primary
         elementId: hero-main-button
+        altText: Contact me
     styles:
       self:
         height: auto
