@@ -2,8 +2,9 @@
 title: Basic Rules For Walking In The Mountains
 date: '2021-10-26'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Hiking is sometimes referred to as such. This specifically refers to difficult
+  walking through dense forest, undergrowth, or bushes, where forward progress
+  requires pushing vegetation aside.
 featuredImage:
   type: ImageBlock
   url: /images/fjord-bg.jpeg
