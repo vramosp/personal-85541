@@ -3,11 +3,16 @@ title: About us
 sections:
   - type: HeroSection
     title: About me
-    text: >-
-      Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-      roots in a piece of classical Latin literature from 45 BC, making it over
-      2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-      College in Virginia, looked up one of the more obscure Latin words.
+    text: >
+      John Doe is a **Senior Art Director from Stockholm** , Sweden. After
+      graduating from The College of Visual Arts with a degree in Communication
+      Design, he worked for three small graphic design shops where he honed his
+      design style and sensibility.
+
+
+      His work has been recognized by Communication Arts, Print, How, ID, IdN,
+      AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA
+      named him a person to watch in 2019.
     feature:
       type: ImageBlock
       url: /images/about.jpg
