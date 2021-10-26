@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Personal site
 layout: PageLayout
 sections:
   - type: HeroSection
