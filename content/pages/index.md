@@ -156,7 +156,7 @@ sections:
     subtitle: Read through some of my thoughts and inspiration for new ideas
     actions:
       - type: Button
-        label: View all
+        label: More
         url: /
         style: primary
         altText: View all
