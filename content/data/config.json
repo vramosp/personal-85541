@@ -6,7 +6,7 @@
         "secondaryColors": "colors-a",
         "backgroundWidth": "full",
         "title": "Personal",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
