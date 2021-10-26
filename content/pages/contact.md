@@ -26,7 +26,7 @@ sections:
           isRequired: true
           width: full
         - name: Subject
-          label: City
+          label: Subject
           defaultValue: Please choose...
           options:
             - New York
