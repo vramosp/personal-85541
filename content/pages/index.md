@@ -165,7 +165,7 @@ sections:
       - content/pages/blog/fox-village-in-japan.md
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
