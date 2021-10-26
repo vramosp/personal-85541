@@ -35,7 +35,7 @@ sections:
           isRequired: false
           width: full
           type: SelectFormControl
-        - name: lorem-ipsum
+        - name: Message
           label: Description
           placeholder: Please describe
           isRequired: false
