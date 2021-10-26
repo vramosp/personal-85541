@@ -43,7 +43,7 @@ sections:
     quote: >
       The world always seems brighter when you’ve just made something that
       wasn’t there before.
-    name: Johnna Doe
+    name: NEIL GAIMAN
     title: Product Marketing Manager at Acme
     backgroundImage: {}
     styles:
