@@ -160,7 +160,7 @@ sections:
     actions:
       - type: Button
         label: More
-        url: /
+        url: / blog
         style: secondary
         altText: More
         showIcon: false
