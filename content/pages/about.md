@@ -82,7 +82,6 @@ sections:
     colors: colors-g
     backgroundWidth: full
     backgroundImage:
-      caption: lorem-ipsum
       elementId: ''
       styles:
         self:
