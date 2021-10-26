@@ -108,7 +108,7 @@
             "self": {
                 "width": "full",
                 "padding": [
-                    "pt-16",
+                    "pt-0",
                     "pb-16"
                 ]
             }
