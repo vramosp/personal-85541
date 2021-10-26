@@ -132,6 +132,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderColor: border-complementary-alt
+        borderWidth: 5
       title:
         fontWeight: 700
         fontStyle: normal
