@@ -37,6 +37,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    colors: colors-g
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
