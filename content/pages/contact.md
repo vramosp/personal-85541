@@ -31,6 +31,15 @@ sections:
             I understand that this form is storing my submitted information so I
             can be contacted.
           width: full
+        - name: lorem-ipsum
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
       submitLabel: Send Message
     feature: null
     styles:
