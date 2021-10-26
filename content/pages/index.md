@@ -62,7 +62,6 @@ sections:
         justifyContent: flex-start
     backgroundImage:
       altText: Fjord background
-      caption: lorem-ipsum
       elementId: ''
       styles:
         self:
