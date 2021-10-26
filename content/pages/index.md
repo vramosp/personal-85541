@@ -12,7 +12,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
     actions:
       - type: Button
-        label: Get Started
+        label: Contact me
         url: /contact
         style: primary
         elementId: hero-main-button
