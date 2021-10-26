@@ -5,7 +5,8 @@ sections:
     colors: colors-g
     backgroundWidth: full
     title: Get in touch
-    text: We look forward to hearing from you.
+    text: |
+      To get in touch fill the form below.
     form:
       type: FormBlock
       elementId: contact-form
