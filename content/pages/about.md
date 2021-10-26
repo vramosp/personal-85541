@@ -79,7 +79,7 @@ sections:
     contentAlignVert: bottom
     type: QuoteSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-g
     backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
