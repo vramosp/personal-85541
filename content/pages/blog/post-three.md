@@ -6,10 +6,6 @@ author: content/data/team/hilary-ouse.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
-featuredImage:
-  type: ImageBlock
-  url: /images/post-2.jpeg
-  altText: Post Image
 bottomSections: []
 ---
 
