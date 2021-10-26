@@ -103,7 +103,7 @@ sections:
         fontStyle: normal
         textAlign: left
         margin:
-          - mt-9
+          - mt-10
       subtitle:
         fontWeight: 400
         fontStyle: normal
