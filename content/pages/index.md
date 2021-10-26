@@ -158,7 +158,7 @@ sections:
       - type: Button
         label: More
         url: /
-        style: primary
+        style: secondary
         altText: More
         showIcon: false
     posts:
