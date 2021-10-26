@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-g
     backgroundWidth: full
-    title: 'Hi, I’m Alyvia. I help my clients succeed online'
+    title: 'Hi, I’m Alyvia.'
     text: >
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
