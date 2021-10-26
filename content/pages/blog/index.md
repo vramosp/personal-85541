@@ -11,12 +11,17 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/fox-village-in-japan.md
     styles:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0"]
-        padding: ["pt-12", "pb-12"]
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
       title:
