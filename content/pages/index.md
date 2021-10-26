@@ -79,7 +79,7 @@ sections:
       - type: Button
         label: Lear more
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
         altText: Lear more
         showIcon: true
