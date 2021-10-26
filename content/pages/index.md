@@ -155,7 +155,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-g
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
