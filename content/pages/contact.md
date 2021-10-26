@@ -4,7 +4,7 @@ sections:
   - elementId: contact-form
     colors: colors-g
     backgroundWidth: full
-    title: Contact us
+    title: Get in touhc
     text: We look forward to hearing from you.
     form:
       type: FormBlock
