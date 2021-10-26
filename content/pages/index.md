@@ -162,7 +162,6 @@ sections:
         altText: More
         showIcon: false
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/fox-village-in-japan.md
     styles:
       self:
