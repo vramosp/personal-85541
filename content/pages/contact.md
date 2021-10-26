@@ -25,7 +25,7 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - name: lorem-ipsum
+        - name: Subject
           label: City
           defaultValue: Please choose...
           options:
