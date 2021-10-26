@@ -152,7 +152,7 @@ sections:
     variant: variant-c
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Latest blog posts
     subtitle: Featured blog posts section example
     actions:
       - type: Button
