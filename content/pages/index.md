@@ -64,7 +64,7 @@ sections:
       type: ImageBlock
       url: /images/fjord-bg.jpeg
   - elementId: contact-form
-    colors: colors-f
+    colors: colors-g
     backgroundWidth: full
     title: Contact us
     text: We look forward to hearing from you.
