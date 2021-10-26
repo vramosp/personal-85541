@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-g
     backgroundWidth: full
-    title: This Is A Big Hero Headline
+    title: 'Hi, welcome to my site'
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
