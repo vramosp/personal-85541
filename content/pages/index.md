@@ -101,7 +101,7 @@ sections:
           - pb-12
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
       title:
         fontWeight: 700
         fontStyle: normal
