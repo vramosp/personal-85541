@@ -134,6 +134,7 @@ sections:
         borderColor: border-complementary-alt
         borderWidth: 5
         borderRadius: none
+        borderStyle: none
       title:
         fontWeight: 700
         fontStyle: normal
