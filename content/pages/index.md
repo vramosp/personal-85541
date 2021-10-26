@@ -110,6 +110,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+        margin:
+          - mt-5
       actions:
         justifyContent: flex-start
     type: HeroSection
