@@ -120,7 +120,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: What I do
-    subtitle: Featured blog posts section example
+    subtitle: Featured blog posts section exampleOptional
     actions:
       - type: Button
         label: View all
