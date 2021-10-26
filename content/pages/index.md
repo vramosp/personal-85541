@@ -77,7 +77,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get Started
+        label: Lear more
         url: /
         style: primary
         elementId: hero-main-button
