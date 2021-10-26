@@ -83,7 +83,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/9.jpeg
       altText: Hero section image
     styles:
       self:
