@@ -150,7 +150,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     variant: variant-c
-    colors: colors-a
+    colors: colors-g
     backgroundWidth: full
     title: Latest blog posts
     subtitle: Read through some of my thoughts and inspiration for new ideas
