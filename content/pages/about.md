@@ -97,10 +97,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Hero section image
     styles:
       self:
         height: auto
