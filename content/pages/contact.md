@@ -31,6 +31,7 @@ sections:
           options:
             - Error on the site
             - Sponsorship
+            - lorem-ipsum
           isRequired: false
           width: full
           type: SelectFormControl
