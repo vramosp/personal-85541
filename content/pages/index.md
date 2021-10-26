@@ -121,11 +121,7 @@ sections:
     backgroundWidth: full
     title: What I do
     subtitle: Optional subtitle describing what you do
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: secondary
+    actions: []
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
