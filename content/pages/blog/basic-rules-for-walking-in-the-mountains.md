@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/fjord-bg.jpeg
-  altText: Post thumbnail image
+  altText: Basic rules for walking in the mountains
 bottomSections: []
 layout: PostLayout
 ---
