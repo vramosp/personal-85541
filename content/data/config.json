@@ -16,7 +16,7 @@
             },
             {
                 "label": "About",
-                "altText": "Learn more",
+                "altText": "About",
                 "url": "/about",
                 "showIcon": false,
                 "icon": "arrowLeft",
