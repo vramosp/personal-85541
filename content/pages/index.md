@@ -120,7 +120,7 @@ sections:
     colors: colors-g
     backgroundWidth: full
     title: What I do
-    subtitle: Optional subtitle
+    subtitle: Optional subtitle describing what you do
     actions:
       - type: Button
         label: View all
