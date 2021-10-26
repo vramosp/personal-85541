@@ -13,10 +13,6 @@ sections:
       His work has been recognized by Communication Arts, Print, How, ID, IdN,
       AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA
       named him a person to watch in 2019.
-    feature:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: About us
     styles:
       self:
         height: auto
