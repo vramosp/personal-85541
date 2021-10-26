@@ -28,7 +28,7 @@
             {
                 "label": "Contact",
                 "altText": "Contact",
-                "url": "/",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
