@@ -53,5 +53,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    colors: colors-g
 layout: PageLayout
 ---
