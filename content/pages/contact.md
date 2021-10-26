@@ -27,7 +27,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: subject
-          label: Home address
+          label: Subjec
           placeholder: Your home address
           isRequired: true
           width: full
