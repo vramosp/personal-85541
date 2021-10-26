@@ -55,14 +55,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    backgroundImage:
-      altText: Fjord background
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-      url: /images/fjord-bg.jpeg
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
