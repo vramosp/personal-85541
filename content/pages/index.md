@@ -153,7 +153,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Latest blog posts
-    subtitle: Read through some of my inspiration
+    subtitle: 'Read through some of my thoughts and inspiration '
     actions:
       - type: Button
         label: View all
