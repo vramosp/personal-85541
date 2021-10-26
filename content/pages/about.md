@@ -87,11 +87,10 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      As a hobby, John Doe authors the most influential design blog in Sweden
+      with over 100,000 page views a month. He lives in Stockholm with his
+      beautiful wife and two boys.
     actions: []
     styles:
       self:
