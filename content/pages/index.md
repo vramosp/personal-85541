@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: Contact me
         url: /contact
-        style: primary
+        style: secondary
         elementId: hero-main-button
         altText: Contact me
     styles:
