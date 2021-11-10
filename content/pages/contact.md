@@ -70,35 +70,5 @@ sections:
         textAlign: left
     action: /.netlify/functions/submission_created
     type: ContactSection
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-f
-    backgroundWidth: full
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 layout: PageLayout
 ---
